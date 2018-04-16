@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BmwAssignment</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="sort_type">Unsorted</string>
+    <string name="sort_by_name">Sort by name</string>
+    <string name="sort_by_time">Sort by arrival time</string>
+    <string name="sort_by_distance">sort by distance</string>
+</resources>
